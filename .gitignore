@@ -1,4 +1,5 @@
 Virtual_interpreter
 example.py
-_pycache_
+/_pycache_
 .idea
+setup.py
